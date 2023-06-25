@@ -1,0 +1,21 @@
+<resources>
+    <string name="common_ok">Ok</string>
+    <string name="common_error_general_title">Error</string>
+    <string name="common_error_network">Please, check internet connection and try again later.</string>
+    <string name="common_error_general_message">We are working hard to fix the problem. Please, try again later.</string>
+    <string name="app_name" translatable="false">HelloAR Java</string>
+    <string name="depth_use_explanation" translatable="false">When Depth is enabled on supported devices, virtual objects adapt to the environment by blending in with the real world.</string>
+    <string name="button_text_enable_depth" translatable="false">Enable</string>
+    <string name="button_text_disable_depth" translatable="false">Disable</string>
+    <string name="options_title_with_depth" translatable="false">Your device supports depth</string>
+    <string name="options_title_without_depth" translatable="false">Your device does not support depth</string>
+    <string name="done" translatable="false">Done</string>
+    <string-array name="depth_options_array" translatable="false">
+        <item>Enable depth</item>
+        <item>Show depth map</item>
+    </string-array>
+    <string name="options_title_instant_placement" translatable="false">Instant Placement options</string>
+    <string-array name="instant_placement_options_array" translatable="false">
+        <item>Enable Instant Placement</item>
+    </string-array>
+</resources>
